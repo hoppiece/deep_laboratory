@@ -1,1 +1,2 @@
 # deep_laboratory
+DeepLearning で様々な実験を扱いやすくするためのライブラリ.
