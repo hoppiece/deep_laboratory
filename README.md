@@ -1,2 +1,7 @@
 # deep_laboratory
-DeepLearning で様々な実験を扱いやすくするためのライブラリ.
+To easier to test various networks in deep learning research.
+
+##  Usage
+```
+python -m laboratory
+```
